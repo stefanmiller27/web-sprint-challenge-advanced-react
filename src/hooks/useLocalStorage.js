@@ -1,4 +1,4 @@
-//wanted to practice localStorage
+//wanted to practice localStorage may not be right just practice since it wasnt mandatory
 
 import { useState } from 'react';
 
